@@ -1,4 +1,5 @@
  📊 Sales Data Analysis Dashboard | Power BI
+<img width="1443" height="807" alt="image" src="https://github.com/user-attachments/assets/e865ea05-d608-4b1d-acc1-7e8952bfc894" />
 
  📌 Project Overview
 
